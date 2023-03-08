@@ -1,7 +1,7 @@
 //your code here
 
 const entry = document.getElementById('evaluatedText');
-const display = document.querySelector('h3');
+const display = document.getElementById('wordCount');
 
 entry.addEventListener('input', function(e){
 
